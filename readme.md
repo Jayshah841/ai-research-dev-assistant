@@ -26,8 +26,8 @@ This project is an AI-powered assistant designed to retrieve and analyze researc
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Jayshah841/ai-research-dev-assistant.git
+   cd ai-research-dev-assistant
    ```
 
 2. **Set up a virtual environment** (optional but recommended)
